@@ -1,0 +1,18 @@
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\bin\Debug\genericSerial.exe.config
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\bin\Debug\genericSerial.exe
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\bin\Debug\genericSerial.pdb
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\obj\Debug\genericSerial.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\obj\Debug\genericSerial.Form1.resources
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\obj\Debug\genericSerial.Properties.Resources.resources
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\obj\Debug\genericSerial.csproj.GenerateResource.Cache
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\obj\Debug\genericSerial.exe
+c:\users\manuel\documents\visual studio 2015\Projects\genericSerial\genericSerial\obj\Debug\genericSerial.pdb
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\bin\Debug\genericSerial.exe.config
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\obj\Debug\genericSerial.exe
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\obj\Debug\genericSerial.pdb
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\bin\Debug\genericSerial.exe
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\bin\Debug\genericSerial.pdb
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\obj\Debug\genericSerial.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\obj\Debug\genericSerial.Form1.resources
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\obj\Debug\genericSerial.Properties.Resources.resources
+C:\Users\Manuel\Documents\Visual Studio 2015\Projects\genericSerial 01\genericSerial\obj\Debug\genericSerial.csproj.GenerateResource.Cache
